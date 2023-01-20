@@ -1,0 +1,6 @@
+image: tngo04/ntpd-rs:latest
+duration: 90
+project: tngo04/ntpd-rs
+target: duration_from_float
+cmds:
+  - cmd: /duration_from_float

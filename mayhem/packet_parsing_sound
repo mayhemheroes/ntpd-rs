@@ -1,0 +1,6 @@
+image: tngo04/ntpd-rs:latest
+duration: 60
+project: tngo04/ntpd-rs
+target: packet_parsing_sound
+cmds:
+  - cmd: /packet_parsing_sound

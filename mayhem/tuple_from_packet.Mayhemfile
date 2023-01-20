@@ -1,0 +1,6 @@
+image: tngo04/ntpd-rs:latest
+duration: 90
+project: tngo04/ntpd-rs
+target: tuple_from_packet
+cmds:
+  - cmd: /tuple_from_packet

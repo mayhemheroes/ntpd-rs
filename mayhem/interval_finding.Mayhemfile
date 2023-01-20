@@ -1,0 +1,6 @@
+image: tngo04/ntpd-rs:latest
+duration: 300
+project: tngo04/ntpd-rs
+target: interval_finding
+cmds:
+  - cmd: /interval_finding
